@@ -1,2 +1,5 @@
-# desafios
-Desafios de progamação - exercícios maratona
+# DESAFIOS DE PROGRAMAÇÃO
+Exercícios maratona
+
+URI
+#2903 - A Symmetrical Pizza
